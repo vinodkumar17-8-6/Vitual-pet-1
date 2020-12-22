@@ -1,0 +1,27 @@
+body{
+
+  margin: auto;
+  background-color: rgb(163, 189, 238);
+}
+canvas{
+  border: 2px solid black;
+  margin-top:10px;
+  margin-left: 600px;
+}
+
+.div{
+  background-color: rgb(161, 145, 218);
+  border: 2px solid black;
+  width: 200px;
+  padding-left: 60px;
+  margin-left: 780px;
+  margin-top: 50px;
+  border-radius: 15px;
+}
+.keys{
+  font-size: larger;
+  font-family: 'Ubuntu';
+}
+.function{
+  font-family: 'Rubik Mono One';
+}
